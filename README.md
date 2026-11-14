@@ -45,6 +45,9 @@
     views/          — шаблоны страниц (включая views/site/dictionary.php)
     web/            — входная точка (index.css/js, статика, ассеты)
 
-Скриншоты БД
+---
 
-<img width="871" height="564" alt="DBMioLang" src="https://github.com/user-attachments/assets/5374b9a9-c8e7-4a31-9ee9-056d7ea46cfb" />
+
+
+
+<img width="871" height="564" alt="DBMioLang" src="https://github.com/user-attachments/assets/54b40c5b-c819-4618-bae8-9bea2ffa3d0a" />
