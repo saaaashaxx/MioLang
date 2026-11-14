@@ -1,3 +1,4 @@
+<img width="1920" height="1001" alt="Site" src="https://github.com/user-attachments/assets/cd7e98ce-5d33-49e8-a7e7-71114612280a" />
 **MioLang** — это интерактивная образовательная платформа, разработанная на фреймворке **Yii2**, предназначенная для эффективного пополнения словарного запаса корейского языка, тренировки памяти с помощью карточек и прохождения проверочных тестов.
 
 [![Yii2](https://img.shields.io/badge/Framework-Yii2-green.svg)](http://www.yiiframework.com/)
@@ -47,3 +48,7 @@
 ```
 
 <img width="871" height="564" alt="DBMioLang" src="https://github.com/user-attachments/assets/af3cc239-0f33-4bc3-a336-d95f7a2ef706" />
+
+<img width="1920" height="1001" alt="Site" src="https://github.com/user-attachments/assets/d0f37513-85e2-4dbc-a3c7-4ed5d579976c" />
+
+<img width="1867" height="911" alt="VS" src="https://github.com/user-attachments/assets/2aad5747-218f-471b-98ef-672550373bbd" />
