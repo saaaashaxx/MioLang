@@ -1,0 +1,12 @@
+/vendor/
+/config/dp.php
+/config/params-local.php
+/config/web-local.php
+/config/console-local.php
+/runtime/*
+!/runtime/.gitignore
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.php-version
