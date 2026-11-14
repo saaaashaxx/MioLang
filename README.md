@@ -44,3 +44,7 @@
     vendor/         — сторонние пакеты Composer
     views/          — шаблоны страниц (включая views/site/dictionary.php)
     web/            — входная точка (index.css/js, статика, ассеты)
+
+Скриншоты БД
+
+<img width="871" height="564" alt="DBMioLang" src="https://github.com/user-attachments/assets/8e40ab6c-08ae-4259-acb2-832c4ae14330" />
