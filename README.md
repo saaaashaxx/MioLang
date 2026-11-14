@@ -47,4 +47,4 @@
 
 Скриншоты БД
 
-<img width="871" height="564" alt="DBMioLang" src="https://github.com/user-attachments/assets/8e40ab6c-08ae-4259-acb2-832c4ae14330" />
+<img width="871" height="564" alt="DBMioLang" src="https://github.com/user-attachments/assets/5374b9a9-c8e7-4a31-9ee9-056d7ea46cfb" />
